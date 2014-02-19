@@ -1,0 +1,15 @@
+//
+//  AppDelegate.h
+//  ServicesDemo
+//
+//  Created by Tushar Vengurlekar on 19/02/14.
+//  Copyright (c) 2014 Creative Capsule. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+@end
